@@ -1,0 +1,25 @@
+{
+  "name": "autodeployment-tool",
+  "version": "1.0.0",
+  "description": "[![csivit][csivitu-shield]][csivitu-url] [![Issues][issues-shield]][issues-url]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhik2002/AutoDeployment-Tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidhik2002/AutoDeployment-Tool/issues"
+  },
+  "homepage": "https://github.com/vidhik2002/AutoDeployment-Tool#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
